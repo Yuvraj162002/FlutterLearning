@@ -7,7 +7,7 @@ void main() {
 
   // const keyword
   const String city = "Jaipur"; // const variable is a compile-time constant and cannot be changed later.
-  // city = "Jaipur"; // This will cause an error because const variable cannot be changed.
+  // city = "Jaipurs"; // This will cause an error because const variable cannot be changed.
 }
 
 class Person {
