@@ -7,7 +7,7 @@ I'm starting my Flutter journey with this repository. For now, there isn't much 
 ## What to Expect
 
 - Regular updates as I learn Flutter.
-- Code samples, notes, and resources related to my learning.
+- Code samples.
 - Each week will focus on a different topic or concept.
 
 ## Week 1: Dart Basics
