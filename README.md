@@ -1,16 +1,19 @@
-# learningflutter
+# Flutter Learning Journey
 
-A new Flutter project.
+Hello! 👋
 
-## Getting Started
+I'm starting my Flutter journey with this repository. For now, there isn't much here, but I'll be committing my progress and learning notes as I go.
 
-This project is a starting point for a Flutter application.
+## What to Expect
 
-A few resources to get you started if this is your first Flutter project:
+- Regular updates as I learn Flutter.
+- Code samples, notes, and resources related to my learning.
+- Each week will focus on a different topic or concept.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Week 1: Dart Basics
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'm beginning with the fundamentals of Dart, the programming language used by Flutter. Stay tuned for updates as I share what I learn!
+
+---
+
+Feel free to follow along or contribute suggestions!
