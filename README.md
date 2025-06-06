@@ -24,11 +24,17 @@ Topic covered in this:-
 7. Null Safety
 8. String Manipulation
 9. Exception Handling
-10. Classes and Objects
-11. Constructors
-12. Inheritance
-13. Mixins and Abstract Classes
-14. Enums
+ 10. Classes and Objects
+ 11. Constructors
+ 12. Inheritance
+ 13. Mixins and Abstract Classes
+ 14. Enums
+ 15. Lambda Functions.
+ 16. Higher Order Functions.
+ 17. Dart Collections.
+     a). Lists.
+     b). Sets.
+     c). Maps.
 
 ---
 
