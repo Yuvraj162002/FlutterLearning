@@ -31,10 +31,7 @@ Topic covered in this:-
  14. Enums
  15. Lambda Functions.
  16. Higher Order Functions.
- 17. Dart Collections.
-     a). Lists.
-     b). Sets.
-     c). Maps.
+ 17. Dart Collections. a). Lists. b). Sets. c). Maps.
 18).Future, async and await.
 
 ---
