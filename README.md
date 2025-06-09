@@ -32,7 +32,7 @@ Topic covered in this:-
  15. Lambda Functions.
  16. Higher Order Functions.
  17. Dart Collections. a). Lists. b). Sets. c). Maps.
-18).Future, async and await.
+18.Future, async and await.
 
 ---
 
