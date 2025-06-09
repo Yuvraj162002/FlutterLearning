@@ -7,7 +7,7 @@ void main() {
   print("Addition of 3 and 5 is: $addition");
 }
 
-/** Here to reduce this boiler plate code we can use the shorthand syntax.
+/** Here to reduce this boiler plate code we can use the shorthand syntax ( FAT ARROW...).
 
 void Person(String name) { // function declaration ( here name is a parameter)
   print("Person's name is: $name");
